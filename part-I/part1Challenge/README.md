@@ -2,7 +2,7 @@
 
 You are creating a website for a Coffee House. Make 4 pages like the following. <br>
 
-You will create a new repository for this called javajam-<your Github username> and add me as a collaborator.
+You will create a new repository for this called javajam-[your Github username] and add me as a collaborator.
 
 You should start the project by creating an `index.html` with the code from [template.html](template.html) 
 
