@@ -21,7 +21,7 @@
 
 Replace "Your Name Here" with your actual name. 
 
-8. Compare your site to the below image and make any tweaks. 
+8. Compare your site to the below image and make any tweaks. To open the website you can open up your favorite browser go to File -> Open and find your index.html. You can also do it in Terminal by typing `open index.html` in the directory with the index.html file
 ![Trillium Initial](images/trilliumInitial.png)
 
 ## Done
