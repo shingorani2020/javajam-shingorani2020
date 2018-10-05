@@ -1,16 +1,20 @@
 body {
-  background-color: #E6E6FA;
-  color: #191970
+  background-color: #F4FFE4;
+  color: #333333;
 }
 
 h1 {
-  background-color: #191970
-  color: #E6E5FA
+  background-color: #D5EDB3;
+  color: #5C743D;
 }
 
 h2 {
-  background-color: #AEAED4;
-  color: #191970;
+  background-color: #D5EDB3;
+  color: #5C743D;
+  background-image: url("trilliumbg.gif");
+  background-repeat: no-repeat;
+  padding-left: 30px;
+
 }
 
 .feature {
@@ -18,9 +22,22 @@ h2 {
 }
 
 #content {
-  background-color: #F6F6FD
+  background-color: #F4FFE4
 }
 
 .companyName {
-  color: #6A6AA7;
+  color: #5C743D;
+}
+
+footer {
+  font-style: italic;
+  font-size: small;
+  background-image: url("trilliumfoot.gif");
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 75px;
+}
+
+ul {
+  list-style-image: url(part-III/warmupActivity/images/trillium.gif);
 }
