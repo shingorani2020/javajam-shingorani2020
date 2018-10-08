@@ -1,0 +1,27 @@
+body {
+  background-color: #F5F5DC;
+  color: #2E0000
+}
+
+h1 {
+  background-color: #D2B48C;
+  color: #b5651d;
+  font-size: 300%;
+  font-family: fantasy;
+  text-shadow: 3px 3px 3px #000000;
+  text-align: center;
+
+
+}
+
+  footer {
+  background-color:#D2B48C;
+  color: #000000;
+  font-style: italic;
+  text-align: center;
+
+  }
+
+  nav {
+    text-align: center;
+  }
