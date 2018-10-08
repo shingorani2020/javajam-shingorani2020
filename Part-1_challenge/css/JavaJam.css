@@ -1,13 +1,12 @@
 body {
-  background-color: #F5F5DC;
+  background-color: #F0DEB4;
   color: #2E0000
 }
 
 h1 {
-  background-color: #D2B48C;
+
   color: #b5651d;
-  font-size: 300%;
-  font-family: fantasy;
+
   text-shadow: 3px 3px 3px #000000;
   text-align: center;
 
@@ -25,3 +24,14 @@ h1 {
   nav {
     text-align: center;
   }
+
+  #container {
+    background-color: #F5F5DC;
+    width: 700px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 5px 5px 5px #1e1e1e;
